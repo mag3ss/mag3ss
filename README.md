@@ -1,1 +1,1 @@
-# mag3ss.github.io/mag3ss/
+# mag3ss.github.io
