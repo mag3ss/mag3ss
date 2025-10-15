@@ -15,7 +15,7 @@
 ```
 ## 🌐 Connect
 
-Feel free to reach out for collaborations or discussions on game development and 3D modeling:
+Feel free to reach out for collaborations or discussions:
 
 - 📧 Email: edmond@mag3s.se
 - 💼 LinkedIn: https://www.linkedin.com/in/edmond-bajra-2367b3289/
